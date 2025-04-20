@@ -1,0 +1,56 @@
+Super Store Sales Dashboard – Key Insights
+
+Overall Performance
+-------------------
+- Total Sales: $1.6M
+- Total Quantity Sold: 22K units
+- Total Profit: $175K
+- Average Delivery Days: 4
+
+Sales by Payment Mode
+---------------------
+- Cash on Delivery (COD): 43% (highest)
+- Online Payments: 35%
+- Card Payments: 22%
+
+Sales by Region
+---------------
+- West: 33% (leading region)
+- East: 29%
+- South: 16%
+- Central: Data not shown, possibly lowest
+
+Sales by Segment
+----------------
+- Consumer: 48% (dominant)
+- Corporate: 33%
+- Home Office: 19%
+
+Sales by Ship Mode
+------------------
+- Standard Class: $0.33M
+- Second Class: $0.11M
+- First Class: $0.08M
+- Same Day: $0.03M
+
+Monthly Sales Trends (YoY: 2019 vs 2020)
+---------------------------------------
+- Clear upward trend in 2020, especially in Q4 (Oct–Dec)
+- December shows peak sales in both years
+
+Geographical Distribution
+-------------------------
+- Sales and profits are concentrated in the eastern and western parts of the U.S.
+- Several high-performing clusters observed on the map
+
+Sales by Category
+-----------------
+- Office Supplies: $0.64M (top-selling category)
+- Technology: $0.47M
+- Furniture: $0.45M
+
+Top Sub-Categories
+------------------
+- Phones: $0.20M
+- Chairs: $0.18M
+- Binders: $0.17M
